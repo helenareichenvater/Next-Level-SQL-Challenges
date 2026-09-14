@@ -1,0 +1,10 @@
+-- SELECT : Query
+
+-- Select query to return a sample.
+
+select *
+from
+    orders
+limit
+    50
+;
